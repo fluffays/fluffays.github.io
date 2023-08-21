@@ -1,0 +1,109 @@
+h1 {
+	font-family: Barriecito, cursive;
+	font-size: 50px;
+	color: #7F1FFF;
+}
+
+.main-heading{
+	color: #000000;
+}
+
+.headingfont {
+	font-family: Karla, sans-serif;
+}
+
+h2 {
+	font-family: Karla, sans-serif;
+	font-size: 32px;
+	font-weight: light;
+}
+
+.subheadingfont {
+	font-family: Karla, sans-serif;
+}
+
+p {
+	font-family: Karla, sans-serif;
+	font-weight: light;
+}
+
+.paragraphfont {
+	font-family: Karla, sans-serif;
+}
+
+ol {
+	font-family: Karla, sans-serif;
+}
+
+.Karla-light {
+	font-weight: 300;
+	font-size: 20px;
+}
+
+.Karla-medium {
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.Karla-extrabold {
+	font-weight: 800;
+	font-size: 20px;
+}
+
+.Barriecito {
+	font-family: Barriecito, cursive;
+	font-size: 20px;
+}
+
+.color-section {
+	display: inline;
+}
+
+.color1 {
+	background-color: #2F2FFF;
+	color: #ffffff;
+	font-family: Karla, sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	padding: 40px;
+	display: inline-block;
+	margin: 5px 10px 10px auto;
+}
+
+.color2 {
+	background-color: #7F1FFF;
+	color: #ffffff;
+	font-family: Karla, sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	padding: 40px;
+	display: inline-block;
+	margin: 5px 10px
+}
+
+.color3 {
+	background-color: #FFE90B;
+	color: #000000;
+	font-family: Karla, sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	padding: 40px;
+	display: inline-block;
+	margin: 5px 10px 10px auto;
+}
+
+.color4 {
+	background-color: #FFC20B;
+	color: #000000;
+	font-family: Karla, sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	padding: 40px;
+	display: inline-block;
+	margin: 5px 10px;
+}
+
+.section-title {
+	color: #000000;
+	border: 2px solid black;
+}
